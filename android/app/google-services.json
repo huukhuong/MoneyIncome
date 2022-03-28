@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219210228358",
+    "project_id": "moneyincome-64e56",
+    "storage_bucket": "moneyincome-64e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219210228358:android:8a65973ee028874de7e707",
+        "android_client_info": {
+          "package_name": "com.moneyincome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219210228358-ia0u7b2tfkek3o6v7sh6621k10vjm3g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4taitKCCPUlL4Qs9zFgsd4TKB5KzTw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219210228358-ia0u7b2tfkek3o6v7sh6621k10vjm3g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
