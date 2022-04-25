@@ -200,7 +200,7 @@ const Home = ({ navigation, route }) => {
                 <ScrollView>
                     {
                         dataArray.length > 0 ?
-                            dataArray.map((item, index) =>
+                            dataArray.reverse().map((item, index) =>
                                 <ItemNote
                                     onPress={() => editNote(item, index)}
                                     data={item}
